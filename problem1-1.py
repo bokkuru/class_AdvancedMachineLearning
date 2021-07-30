@@ -109,7 +109,4 @@ plt.plot(epoch, newtonJs - best, label = "newton method")
 plt.legend()
 plt.grid()
 fig.show()
-fig.savefig("problem1.png")
-
-
-x, y = dataset.dataset5()
+fig.savefig("problem1-1.png")
